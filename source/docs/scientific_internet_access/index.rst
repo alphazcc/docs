@@ -1,8 +1,8 @@
-ReadMe
+科学上网
 ======================================
 
 .. toctree::
    :maxdepth: 1
 
-   ReadMe
+   README
 

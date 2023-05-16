@@ -4,4 +4,6 @@ Documents
 .. toctree::
    :maxdepth: 1
 
-   ReadMe/index
+   ChatGPT/index
+   scientific_internet_access/index
+   about/index

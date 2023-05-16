@@ -6,9 +6,9 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'alpha-docs'
-copyright = '2023, alpha'
-author = 'alpha'
+project = 'HelloAlpha'
+copyright = '2023, HelloAlpha'
+author = 'HelloAlpha'
 release = 'V1.0'
 
 # -- General configuration ---------------------------------------------------
