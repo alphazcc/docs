@@ -5,5 +5,6 @@ Documents
    :maxdepth: 1
 
    ChatGPT/index
-   scientific_internet_access/index
+   V-P-N/index
+   Zynq7000/index
    about/index
