@@ -92,4 +92,4 @@ petalinux-package --boot --fsbl ./images/linux/zynq_fsbl.elf --fpga ./images/lin
 
 ## 将 BOOT.bin 烧写进 QSPI Flash
 
-...
+参考 [QSPI Flash 固化程序](./../SDK/qspi_solidify.md)

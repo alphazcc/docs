@@ -6,7 +6,5 @@ Zynq7000 SDK
 
    timer
    uart
-   petalinux
-   qspi_startup
    qspi_solidify
 

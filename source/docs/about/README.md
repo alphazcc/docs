@@ -1,9 +1,20 @@
 # Hello! This is HelloAlpha!
 
-- [Hello阿尔法的博客_CSDN博客](https://blog.csdn.net/weixin_44550536)
+![](./images/welcome.jpg)
 
-- [Hello阿尔法 - 知乎 (zhihu.com)](https://www.zhihu.com/people/alpha-42-40-51)
+- 微信公众号 - 51爱电子
+  
+  ![](./images/vx-gzh.jpg)
 
-- Hello阿尔法的微信公众号 👇👇👇
+- 微信视频号 - Hello阿尔法
+  
+  ![](./images/vx-sph.jpg)
 
-![LoveElectronics](./images/LoveElectronics.png)
+- [哔哩哔哩 - Hello阿尔法](https://space.bilibili.com/506995858)
+  
+- [知乎 - Hello阿尔法](https://www.zhihu.com/people/alpha-42-40-51)
+  
+- [CSDN博客 - Hello阿尔法](https://blog.csdn.net/weixin_44550536)
+  
+- [稀土掘金 - Hello阿尔法](https://juejin.cn/user/488654029720605/)
+ 

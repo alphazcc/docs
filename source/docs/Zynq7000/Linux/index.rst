@@ -1,9 +1,8 @@
-Zynq7000 
+Zynq7000 Linux
 ======================================
 
 .. toctree::
    :maxdepth: 1
 
-   SDK/index
-   FPGA/index
-   Linux/index
+   petalinux
+   qspi_startup_linux
