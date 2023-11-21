@@ -73,7 +73,7 @@ FSBL 是一个二级引导程序，完成 MIO 的分配、时钟、PLL、DDR 控
 
 - 新建一个 `program_qspi.txt` 文本文件，扩展名改为 `bat`，内容填写如下：
 
-```c
+```
 set XIL_CSE_ZYNQ_DISPLAY_UBOOT_MESSAGES=1
 call D:\Software\Xilinx17\SDK\2017.4\bin\program_flash -f BOOT.bin -offset 0 -flash_type qspi_dual_parallel -fsbl fsbl.elf -verify
 pause
